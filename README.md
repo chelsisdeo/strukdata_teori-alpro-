@@ -126,7 +126,8 @@ int main() {
 ```
 
 #### Output 
-![Screenshot 2024-05-07 135425](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/dce1d5c5-5006-4d7a-b77b-e4b22c8951c0)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/429d00d3-6d4b-4376-8fde-a361a6636331)
+
 
 
 #### - Penjelasan:
@@ -224,7 +225,8 @@ int main() {
 
 ```
 ### Output 
-![Screenshot 2024-05-07 144654](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/edf9363b-4982-4d1f-b6e6-9d198293eb03)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/d4804f30-6779-4624-85d6-0bb25ae3d95b)
+
 
 #### Penjelasan 
 
@@ -282,7 +284,7 @@ int main() {
 Kodingan tersebut mendefinisikan sebuah struktur buku dengan lima atribut, seperti judul, pengarang, dan harga. Nilai-nilai atribut tersebut diisi untuk satu buku favorit, kemudian ditampilkan secara terstruktur menggunakan perintah cout. Outputnya adalah informasi tentang buku favorit, termasuk judul, pengarang, penerbit, jumlah halaman, dan harga buku.
 
 ### OUTPUT 
-![Screenshot 2024-04-23 085304](https://github.com/chelsisdeo/praksrtukdata/assets/161056340/78baec0e-b53f-40a1-a0a5-980a1b18cff4)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/68680736-7a6a-4494-ae93-5ea00870d90d)
 
 
 ## Soal SubCPMK 5
@@ -349,7 +351,7 @@ int main() {
 
 ```
 ### Output
-![Screenshot 2024-05-08 145453](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/cfbd9ed3-2e6f-4e3a-85ea-b56e6618742f)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/cd58a7ed-f71e-4e37-95f4-55cd99997500)
 
 Dalam codingan ini, pertama, program membuat linked list dengan elemen 1 -> 2 -> 3 -> 2 -> 1. Kemudian, menggunakan stack, program menyimpan nilai dari setengah pertama linked list. Selanjutnya, program membandingkan nilai dari setengah kedua linked list dengan nilai yang diambil dari stack. Jika semua nilai cocok, maka linked list adalah palindrom. Hasil dari kodingan ini akan mencetak “Linked list adalah palindrom.”
 
@@ -430,8 +432,7 @@ int main() {
 ```
 
 ### output
-![Screenshot 2024-05-10 153650](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/33b2319f-87dc-447f-9f34-eb3ef3ac4d86)
-
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/2589a189-2fbc-4bc5-906a-350765170ec2)v
 
 - code 2 (Program untuk menghitung nilai ekspresi matematika dalam notasi postfix )
 
@@ -471,8 +472,7 @@ int main() {
 ```
 
 ### output 
-![image](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/10940d35-c678-4f29-bb18-0d7ed1c24a40)
-
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/cdc71f4b-2fbb-499f-9210-d066f53bed74)
 
 - code 3 (Program untuk membalikkan string menggunakan stack)
 
@@ -503,7 +503,8 @@ int main() {
 ```
 
 ### output 
-![image](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/2df66512-bf5c-4092-a5ff-a3b7245b4096)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/f95700ef-9d08-48ca-a5b1-83a44a8046a9)
+
 
 - code 4 (Program untuk mengecek apakah suatu kata atau kalimat adalah palindrom)
 
@@ -537,7 +538,7 @@ int main() {
 ```
 
 #### output 
-![image](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/6a99e810-b4ae-47bb-8c09-7eb35adb34c6)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/7ef5032d-d9ca-4e7e-b677-b5f8feef504d)
 
 - code 5 (Program untuk mengubah bilangan desimal menjadi biner menggunakan stack)
 
@@ -569,8 +570,7 @@ int main() {
 ```
 
 #### output
-![image](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/de09616f-ed30-4ee2-a812-ce3108e04894)
-
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/eaf48a50-7992-420c-ac4b-fe429c72e2d0)
 
 ## Soal SubCPMK 7
 
@@ -681,5 +681,7 @@ int main() {
 ```
 
 #### output
-![Screenshot 2024-05-10 154904](https://github.com/chelsisdeo/Tugas_Teori_Strukdata/assets/161056340/a948be8d-8ae3-4375-a3b7-f037646ebf5b)
+![image](https://github.com/chelsisdeo/strukdata_teori-alpro-/assets/161056340/849fdc47-0e92-4ec9-aac6-ac3cf22580c8)
+
+Kode di atas merupakan implementasi dari sebuah sistem penampungan hewan (animal shelter) menggunakan antrian (queue) untuk mengatur antrian hewan yang masuk
 
