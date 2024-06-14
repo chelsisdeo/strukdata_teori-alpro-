@@ -1,12 +1,3 @@
-penjelasan dan contoh program
-
-Hash Table adalah struktur data berupa array dengan sel-sel berukuran tetap yang dapat 
-berisi data atau key, mirip dengan tabel sementara di MySQL yang memiliki record dan primary key 
-untuk operasi insert, update, delete, search, dan link. Kode tersebut mengimplementasikan hash table dalam C++ yang 
-memetakan key ke value menggunakan fungsi hash sederhana (hash_func). Setiap elemen dalam hash table 
-direpresentasikan sebagai node (Node) dengan atribut key, value, dan next untuk menangani tabrakan hash. 
-Operasi yang didukung termasuk penyisipan, pencarian, penghapusan, dan penelusuran.[1]
-
 
 #include <iostream>
 using namespace std;
@@ -124,11 +115,3 @@ int main() {
     
     return 0;
 }
-
-referensi 
-
-[1] Syahrir, M., & Fatimatuzzahra, F. (2020). 
-    Association Rule Integrasi Pendekatan Metode Custom Hashing 
-    dan Data Partitioning untuk Mempercepat Proses Pencarian Frekuensi Item-set pada Algoritma Apriori. 
-    Matrik: Jurnal Manajemen, Teknik Informatika 
-    Dan Rekayasa Komputer, 20(1), 149-158.
