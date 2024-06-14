@@ -1,14 +1,3 @@
-// penjelasan dan contoh program
-
-Priority queue adalah struktur data yang mengatur elemen berdasarkan nilai prioritas, 
-dengan elemen berprioritas tinggi diambil lebih dulu. Struktur data heap, 
-divisualisasikan sebagai complete binary tree, digunakan dalam implementasi ini. 
-Kode dibawah mengimplementasikan max-heap dalam C++, dengan array H menyimpan elemen 
-heap dan heapSize melacak ukurannya. Fungsi parent, leftChild, dan rightChild menghitung indeks 
-elemen induk dan anak, sementara fungsi shiftUp dan shiftDown memulihkan properti heap setelah elemen diubah. 
-Fungsi insert menambah elemen baru, extractMax menghapus dan mengembalikan elemen maksimum, changePriority 
-mengubah prioritas elemen, dan getMax mengembalikan elemen maksimum tanpa menghapusnya. 
-Fungsi main menunjukkan penggunaan dasar dengan memasukkan elemen, mengekstraksi maksimum, dan mengubah prioritas elemen.[1]
 
 #include <iostream>
 #include <algorithm>
@@ -109,8 +98,3 @@ int main() {
     return 0;
 }
 
-
-referensi
-
-[1] Situmorang, H. (2016). Simulasi Pengurutan Data dengan Algoritma Heap Sort. 
-    Jurnal Mahajana Informasi, 1(2), 20-30.
