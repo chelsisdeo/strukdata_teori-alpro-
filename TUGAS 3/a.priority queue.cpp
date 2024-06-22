@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e1057fafc35e69f90dcd6da40ab89826e24d8609
 
 #include <iostream>
 #include <algorithm>
@@ -99,4 +102,7 @@ int main() {
     return 0;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e1057fafc35e69f90dcd6da40ab89826e24d8609
