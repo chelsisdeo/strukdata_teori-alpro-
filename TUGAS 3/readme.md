@@ -373,7 +373,7 @@ int main() {
 }
 
 ```
-
+Kode berikut adalah contoh implementasi graf menggunakan matriks ketetanggaan dalam C++. Simpul-simpul graf diwakili oleh array string dan hubungan antar simpul oleh matriks bobot. Fungsi tampilGraph() digunakan untuk menampilkan graf dalam bentuk matriks ketetanggaan beserta bobotnya. Dalam fungsi main(), tampilGraph() dipanggil untuk menampilkan graf yang telah dibuat.
 
 ### referensi
 
